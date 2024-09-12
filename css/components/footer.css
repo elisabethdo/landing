@@ -1,0 +1,27 @@
+/* Footer styling */
+
+footer {
+  background-color: #333; /* Dark background for the footer */
+  padding: 60px 0; /* Some padding on top and bottom */
+  text-align: center; /* Center the text and icons in footer */
+}
+
+footer .links {
+  margin-bottom: 10px; /* Add some space below the icons */
+}
+
+footer .links a {
+  color: #1EDD88; /* Ensure that links are green */
+  padding: 0 5px; /* Add some space around the icons */
+  font-size: 30px;  /* Larger font size for the icons */
+}
+
+
+footer p {
+  font-size: 1em; /* Smaller text for the footer paragraph */
+  color: #fff; /* White text color */
+}
+
+footer .fas.fa-heart {
+  color: #ec1395; /* Pink color for the heart icon */
+}
